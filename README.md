@@ -1,16 +1,35 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff1f8,30:f9a8d4,65:c084fc,100:93c5fd&height=245&section=header&text=zzzhs66678&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=少女心%20x%20代码魔法%20x%20AI%20Automation&descAlignY=58&descSize=18" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff1f8,30:f9a8d4,65:c084fc,100:93c5fd&height=245&section=header&text=zzz&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%E4%B8%8D%E8%A6%81%E6%8A%8A%E6%A2%A6%E6%83%B3%E5%9F%8B%E6%B2%A1%20%7C%20AI%20Automation%20%7C%20Anime%20Coding%20Room&descAlignY=58&descSize=18" alt="header" />
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&pause=900&color=FF79C6&center=true&vCenter=true&width=720&lines=%E2%9C%A6+Welcome+to+my+little+coding+planet+%E2%9C%A6;%E5%86%99%E4%B8%80%E7%82%B9%E4%BB%A3%E7%A0%81%EF%BC%8C%E6%94%B6%E9%9B%86%E4%B8%80%E7%82%B9%E6%98%9F%E5%85%89;AI+%2F+Automation+%2F+Trading+Systems;%E4%BB%8A%E5%A4%A9%E4%B9%9F%E8%A6%81%E6%8A%8A%E6%83%B3%E6%B3%95%E5%8F%98%E6%88%90%E5%8F%AF%E8%BF%90%E8%A1%8C%E7%9A%84%E4%B8%9C%E8%A5%BF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&pause=900&color=FF79C6&center=true&vCenter=true&width=760&lines=%E2%9C%A6+zzz+%7C+Welcome+to+my+little+coding+planet+%E2%9C%A6;%E4%B8%8D%E8%A6%81%E6%8A%8A%E6%A2%A6%E6%83%B3%E5%9F%8B%E6%B2%A1;%E5%86%99%E4%B8%80%E7%82%B9%E4%BB%A3%E7%A0%81%EF%BC%8C%E6%94%B6%E9%9B%86%E4%B8%80%E7%82%B9%E6%98%9F%E5%85%89;AI+%2F+Automation+%2F+Trading+Systems;%E4%BB%8A%E5%A4%A9%E4%B9%9F%E8%A6%81%E6%8A%8A%E6%83%B3%E6%B3%95%E5%8F%98%E6%88%90%E5%8F%AF%E8%BF%90%E8%A1%8C%E7%9A%84%E4%B8%9C%E8%A5%BF" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/zzzhs66678">
   <img src="https://img.shields.io/badge/GitHub-zzzhs66678-ff79c6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+<a href="https://space.bilibili.com/2120532183?spm_id_from=333.1007.0.0">
+  <img src="https://img.shields.io/badge/Bilibili-zzz-00AEEF?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
+</a>
+<a href="https://www.zhihu.com/people/zhs-49-30">
+  <img src="https://img.shields.io/badge/Zhihu-zzz-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu" />
+</a>
+<a href="https://www.xiaohongshu.com/user/profile/646125f00000000029012aef">
+  <img src="https://img.shields.io/badge/Xiaohongshu-zzz-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="Xiaohongshu" />
+</a>
+<a href="https://music.163.com/#/user/home?id=8093384799">
+  <img src="https://img.shields.io/badge/Netease_Music-zzz-D43C33?style=for-the-badge&logo=neteasecloudmusic&logoColor=white" alt="Netease Music" />
+</a>
+<a href="https://x.com/zzzdufe">
+  <img src="https://img.shields.io/badge/X-zzzdufe-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<img src="https://img.shields.io/badge/QQ-2450256851-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ" />
+
+<br/><br/>
+
 <a href="https://github.com/zzzhs66678?tab=repositories">
   <img src="https://img.shields.io/badge/Repos-open_source-c084fc?style=for-the-badge&logo=gitbook&logoColor=white" alt="Repositories" />
 </a>
@@ -29,7 +48,7 @@
 
 <br/>
 
-> 「先让它跑起来，再把它打磨成会发光的样子。」
+> 「不要把梦想埋没。先让它跑起来，再把它打磨成会发光的样子。」
 
 <br/>
 
@@ -39,7 +58,7 @@
   <tr>
     <td width="50%">
       <b>身份设定</b><br/>
-      正在升级中的 builder / learner / open-source explorer。喜欢把脑袋里的想法变成能运行的小工具，也喜欢拆开别人的优秀项目学习。
+      zzz，正在升级中的 builder / learner / open-source explorer。喜欢把脑袋里的想法变成能运行的小工具，也喜欢拆开别人的优秀项目学习。
     </td>
     <td width="50%">
       <b>当前主线</b><br/>
@@ -49,7 +68,7 @@
   <tr>
     <td width="50%">
       <b>页面气质</b><br/>
-      少女风、粉紫星空、魔法终端、二次元小屋，但内核仍然是清晰、可读、可维护。
+      少女风、粉紫星空、魔法终端、二次元小屋。「不要把梦想埋没」是这间小屋的门牌。
     </td>
     <td width="50%">
       <b>开发习惯</b><br/>
@@ -98,7 +117,7 @@
 
 - 喜欢可爱但不杂乱的视觉：粉色、星星、柔光、像素小物、魔法少女感。
 - 页面会优先保持 GitHub README 的加载稳定和阅读体验。
-- 后续可以加入你的头像、OC 设定、B 站/网易云/小红书/知乎等链接。
+- 这里已经放上 B 站、知乎、小红书、网易云、X 和 QQ，像一排小小的通往不同世界的门。
 
 </details>
 
@@ -172,9 +191,9 @@ struct Profile {
 };
 
 struct Profile me = {
-    .name = "zzzhs66678",
+    .name = "zzz",
     .title = "student / builder / little automation mage",
-    .motto = "make it run, make it clear, make it cute",
+    .motto = "不要把梦想埋没",
     .aesthetic = "pastel anime, sakura terminal, starry debug room",
     .quests = {
         "learn LLMs through real code",
@@ -225,8 +244,9 @@ struct Profile me = {
 | --- | --- |
 | 正在学习 | LLM、agent workflow、Python 自动化、交易系统 |
 | 喜欢的项目 | 能解决真实问题、能被复用、能慢慢变漂亮 |
-| 页面待补全 | 头像/OC 设定、社交链接、昵称、个人签名、代表项目说明 |
-| 下一步 | 把你的真实信息填进去，再做更强的个人品牌感 |
+| 社交小屋 | B 站、知乎、小红书、QQ、网易云、X |
+| 页面待补全 | 头像/OC 设定、代表项目说明、喜欢的番/音乐/角色 |
+| 下一步 | 做一张专属二次元头图，再把项目介绍写得更有故事感 |
 
 <br/>
 
